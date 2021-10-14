@@ -1,0 +1,2 @@
+from sklearn import datasets, linear_model
+X,y = datasets.load_diabetes(return_X_y=True)
